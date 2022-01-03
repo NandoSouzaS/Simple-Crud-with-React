@@ -1,4 +1,4 @@
-# Simple-Crud
+# Simple-CRUD
 A version Built as a Curso de Web Moderno project. From this, I will raise the level of the application to
 a personalized front-end example of a formulary that can do All the basic operations of a database, CRUD,
  so I'll keep this Read.me simplistic for now.
